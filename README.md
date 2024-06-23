@@ -15,3 +15,6 @@ Funzionante con vari inventari📦
 SCRIPT ESX 
 
 Per info aprite ticket. Se volete vedere la pagina ufficiale: COMING SOON
+
+
+# Documentation
