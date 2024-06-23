@@ -6,7 +6,7 @@ Sistema di doorclock per Fivem. VERSIONE 1.0
 
 ## ⚙️・Requisti
 - [cicus_lib](https://github.com/TheCicus/cicus_lib)
-- [esx framework](https://github.com/esx-framework/esx_core)
+- [esx framework](https://github.com/mitlight/es_extended)
 
 ## 🔧・Opzionali
 - [ox_target](https://github.com/overextended/ox_target)
