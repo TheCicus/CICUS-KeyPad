@@ -10,6 +10,7 @@ Sistema di doorclock per Fivem. VERSIONE 1.0
 
 ## 🔧・Opzionali
 - [ox_target](https://github.com/overextended/ox_target)
+- [dolu_tool](https://github.com/dolutattoo/dolu_tool) Facilita di molto il settaggio
 
 ## 🗝️・Cosa è ?
 - Questo sistema include il doorlock delle porte singole/doppie tramite un tastierino
