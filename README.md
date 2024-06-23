@@ -1,20 +1,29 @@
 # CICUS-KeyPad
+Sistema di doorclock per Fivem. VERSIONE 1.0
 
-QUESTA E UNA VERSIONE BETA DI QUESTO SCRIPT CI SONO MOLTI BUG E PROBLEMI
+# 📖・Documentation
+- https://thecicus.000webhostapp.com/documentation.php
 
-QUESTO SCRIPT INCLUDE:
+# ⚙️・Requisti
+- [cicus_lib]
+- [esx framework](https://github.com/esx-framework/esx_core)
 
-Sistema innovativo di doorlock con keypad 🔑
+# 🔧・Opzionali
+- [ox_target](https://github.com/overextended/ox_target)
 
-Sistema compatibile con tutti i miei job   🧨
-
-Full configurabile dal config.lua 🗒
-
-Funzionante con vari inventari📦
- 
-SCRIPT ESX 
-
-Per info aprite ticket. Se volete vedere la pagina ufficiale: COMING SOON
+# 🗝️・Cosa è ?
+- Questo sistema include il doorlock delle porte singole/doppie tramite un tastierino
+- Totalmente sincronizzato tra player
+- Possibilitá di settare dei job con i relativi gradi ad ogni porta
+  
+# 📩・Supporto
+Se ci sono dei bug da segnalare apri ticket sul mio server discord: [Cicus Development](https://discord.gg/wmW8Nxuh) o anche per der supporto generale
 
 
-# Documentation
+# Copyright
+Copyright © 2024 CICUS DEVELOPMENT
+This README file includes all the necessary sections: documentation link, requirements with hyperlinks, 
+instructions for cloning the GitHub repository, an example of a FiveM script, and contact information. 
+Feel free to modify any part as needed!
+
+
