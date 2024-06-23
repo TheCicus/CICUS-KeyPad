@@ -17,7 +17,7 @@ Sistema di doorclock per Fivem. VERSIONE 1.0
 - Possibilitá di settare dei job con i relativi gradi ad ogni porta
   
 ## 📩・Supporto
-Se ci sono dei bug da segnalare apri ticket sul mio server discord: [Cicus Development](https://discord.gg/wmW8Nxuh) o anche per der supporto generale
+Se ci sono dei bug da segnalare apri ticket sul mio server discord: [Cicus Development](https://discord.gg/wmW8Nxuh) o anche per ricevere supporto 
 
 
 ## Copyright
