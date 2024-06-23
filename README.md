@@ -15,6 +15,8 @@ Sistema di doorclock per Fivem. VERSIONE 1.0
 - Questo sistema include il doorlock delle porte singole/doppie tramite un tastierino
 - Totalmente sincronizzato tra player
 - Possibilitá di settare dei job con i relativi gradi ad ogni porta
+- Supporto per ox_target
+- Totalmente configurabile
   
 ## 📩・Supporto
 Se ci sono dei bug da segnalare apri ticket sul mio server discord: [Cicus Development](https://discord.gg/wmW8Nxuh) o anche per ricevere supporto 
