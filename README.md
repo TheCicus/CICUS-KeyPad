@@ -5,7 +5,7 @@ Sistema di doorclock per Fivem. VERSIONE 1.0
 - https://thecicus.000webhostapp.com/documentation.php
 
 ## ⚙️・Requisti
-- [cicus_lib]
+- [cicus_lib](https://github.com/TheCicus/cicus_lib)
 - [esx framework](https://github.com/esx-framework/esx_core)
 
 ## 🔧・Opzionali
