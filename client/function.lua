@@ -20,7 +20,7 @@ function GetFirstSecondDoor(k)
     local success
     repeat
         local pos = GetEntityCoords(entity)
-        if GetEntityModel(entity) == k.door_model and entity ~= Door and Vdist(pos.x, pos.y, pos.z, k.coords.x, k.coords.y, k.coords.z) < 100.0 then
+        if GetEntityModel(entity) == k.double_door_model  and entity ~= Door and Vdist(pos.x, pos.y, pos.z, k.coords.x, k.coords.y, k.coords.z) < 100.0 then
             return entity
         end
         success, entity = FindNextObject(handle)
