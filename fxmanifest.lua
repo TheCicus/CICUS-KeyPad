@@ -21,4 +21,7 @@ server_scripts({
     "server.lua"
 });
 
-
+dependencies {
+	'es_extended',
+	'cicus_lib'
+}
